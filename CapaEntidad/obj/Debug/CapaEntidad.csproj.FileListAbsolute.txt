@@ -1,0 +1,6 @@
+C:\Users\youne\Pictures\Nueva carpeta (2)\NovaMarket\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\youne\Pictures\Nueva carpeta (2)\NovaMarket\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\youne\Pictures\Nueva carpeta (2)\NovaMarket\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\youne\Pictures\Nueva carpeta (2)\NovaMarket\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\youne\Pictures\Nueva carpeta (2)\NovaMarket\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\youne\Pictures\Nueva carpeta (2)\NovaMarket\CapaEntidad\obj\Debug\CapaEntidad.pdb
